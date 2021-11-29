@@ -1,2 +1,2 @@
 # DEEP_RESNET
-Please Refer the Report.pdf for a detailed report of the implementation and results.
+Please Refer the report.pdf for a detailed report of the implementation and results.
